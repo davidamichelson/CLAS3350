@@ -40,7 +40,7 @@
 *Secondary Sources* 
 
 - Mitchell, Margaret M. "The Emergence of the Written Record." In *The Cambridge History of Christianity*, ed. Margaret M. Mitchell and Frances M. Young, 175-94. Vol. 1. *Origins to Constantine*. Cambridge: Cambridge University Press, 2006. *(VLC)*
-- Levine, Amy-Jill. “Is the New Testament Anti-Jewish?.” *Bible Odyssey.* [http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish](http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish) *(Link provided)*
+- Levine, Amy-Jill. “Is the New Testament Anti-Jewish?.” *Bible Odyssey.* [https://www.bibleodyssey.org/bible-basics/is-the-new-testament-anti-jewish/](https://www.bibleodyssey.org/bible-basics/is-the-new-testament-anti-jewish/) *(Link provided)*
 
 *Assignments*
 
