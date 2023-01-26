@@ -78,11 +78,35 @@
 
 ##	Tuesday, January 31:	Revelation
 
+
+*Primary Sources* 
+
+- “The Secret Book of John.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 297-306. New York: Oxford University Press, 2003. *(VLC)*
+- Irenaeus of Lyons. "Book III." In "Translation: Against Heresies." In *Irenaeus of Lyons*, translated by Robert M. Grant, 93-108. The Early Church Fathers. London: Routledge, 1997. *(VLC)* 
+
+#### Bonus Primary Source Reading
+
+For some reason, the translation of Irenaeus by Grant has left out the following key passage in Book III, Chapter 5, Section 1. When you get to page 96, please add this in just before the section marked "5.1". (*Hint*: You may want to include this in your florilegium).
+
+"III.5.1. Since, therefore, the tradition from the apostles does thus exist in the Church, and is permanent among us, let us revert to the Scriptural proof furnished by those apostles who did also write the Gospel, in which they recorded the doctrine regarding God, pointing out that our Lord Jesus Christ is the truth, and that no lie is in Him. As also David says, prophesying His birth from a virgin, and the resurrection from the dead, “Truth has sprung out of the earth.” The apostles, likewise, being disciples of the truth, are above all falsehood; for a lie has no fellowship with the truth, just as darkness has none with light, but the presence of the one shuts out that of the other. Our Lord, therefore, being the truth, did not speak lies; and whom He knew to have taken origin from a defect, He never would have acknowledged as God, even the God of all, the Supreme King, too, and His own Father, an imperfect being as a perfect one, an animal one as a spiritual, Him who was without the Pleroma as Him who was within it. Neither did His disciples make mention of any other God, or term any other Lord, except Him, who was truly the God and Lord of all..."
+
+**Source:** Irenaus. “Irenaeus against Heresies.” Translated by Alexander Roberts and James Donaldson. In *The Ante-Nicene Fathers*, ed. Alexander Roberts and James Donaldson, 417-18. Vol. 1. Buffalo: Christian Literature Publishing Company, 1887.
+
+*Secondary Sources* 
+
+- McGuckin, John. "Selections from Chapter 2, The Fertile Second Century." In *The Path of Christianity: The First Thousand Years*, 3-4, 26-39, 48-54. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
+
 *Assignments*
 
 - Florilegium 3 
 
 ##	Thursday, February 2:	Scripture
+
+*Primary Source* 
+
+- “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
+
 ##	Tuesday, February 7:	Asceticism
 
 *Assignments*
