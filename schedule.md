@@ -105,6 +105,7 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 
 *Primary Source* 
 
+- Paul, *Second Letter to Timothy* = 2 Timothy, chapters 1-4, please read this in a "Study Bible" version of your choice and pay attention to mentions of scriptures, words, and scrolls.
 - “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
 
 ##	Tuesday, February 7:	Asceticism
