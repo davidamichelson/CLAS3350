@@ -110,11 +110,25 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 
 ##	Tuesday, February 7:	Asceticism
 
-*Assignments*
+*Primary Sources* 
 
-- Florilegium 4 
+- **Review:** “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
+- “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)* **Note:** This text is perhaps the most violent of any we have read so far.
+
+*Secondary Sources* 
+
+- McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
 ##	Thursday, February 9:	Women in Early Christianity
+
+Nota Bene! The *florilegium* is due on Thursday this week. Please complete by 1 PM.
+
+*Assignments*
+
+- Florilegium 4 Please answer this question in your *commentarius*: 
+Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to form Christian views of either gender or asceticism in contra distinction to the dominant views of Roman society?
+
 ##	Tuesday, February 14:	Short Lecture: Geography of Early Christianity
 
 *Assignments*
