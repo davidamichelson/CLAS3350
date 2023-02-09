@@ -129,22 +129,43 @@ Nota Bene! The *florilegium* is due on Thursday this week. Please complete by 1 
 - Florilegium 4 Please answer this question in your *commentarius*: 
 Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to form Christian views of either gender or asceticism in contra distinction to the dominant views of Roman society?
 
-##	Tuesday, February 14:	Short Lecture: Geography of Early Christianity
+##	Tuesday, February 14: Baptism
+*Primary Sources* 
 
-*Assignments*
+- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
+- Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*, 169-175, 179-187. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)* 
 
-- Exam I in class
+*Secondary Sources* 
 
-##	Thursday, February 16:	Extra Credit: A-J Levine and Marc Zvi Brettler Book Discussion (Optional)
-This is not a class session. See *(B)* for assignment details.
-##	Thursday, February 16:	Baptism
-##	Friday, February 17:	Extra Credit: Lecture by Prof. Jack Tannous (Optional)
-This is not a class session. See *(B)* for assignment details.
-##	Tuesday, February 21:	Eucharist
+- McGuckin, John. "Chapter 11, The Formation of Liturgy." In *The Path of Christianity: The First Thousand Years*, 691-717. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
 *Assignments*
 
 - Florilegium 5
+
+Please write a longer commentarius this week. It should be a sample exam answer, so approximately 10-12 sentences and should have a thesis statement and use quotations from the text. The quesiton is: 2. According to Cyril, how are the mysteries of Baptism and/or the Eucharist a form of physical access to heavenly things? 
+
+##	Thursday, February 16:	Extra Credit: A-J Levine and Marc Zvi Brettler Book Discussion (Optional)
+This is not a class session. See *(B)* for assignment details.
+
+"The Bible With and Without Jesus: How Jews and Christians Read the Same Stories Differently" by Amy-Jill Levine and Marc Zvi BrettlerFebruary 16, 2023, 11:00 - 1:00 pm, Vanderbilt Divinity School Room 124.
+
+If you want to be included in the lunch please RSVP by contacting Sha'Tika Brown (shatika.brown@vanderbilt.edu).
+
+##	Thursday, February 16:	Eucharist
+
+See readings for Feb. 14. We will also take review questions on the exam.
+
+##	Friday, February 17:	Extra Credit: Lecture by Prof. Jack Tannous (Optional)
+This is not a class session. See *(B)* for extra credit assignment details.
+
+“Ordinary Christians and the Eve of Islam” by Jack Tannous, Associate Professor of History, Princeton University (https://history.princeton.edu/people/jack-tannous). This lecture will be held on Friday, February, 17, 2023 at 2:30 p.m. in 203 Cohen Memorial Hall.
+
+##	Tuesday, February 21: Exam I & Short Lecture: Geography of Early Christianity
+
+*Assignments*
+
+- Exam I in class (note the date has been changed from Feb 14).
 
 ##	Thursday, February 23:	Christianity and Empire
 *Assignments*
@@ -182,6 +203,9 @@ This is not a class session, just the date when midterm grades will be reported.
 ##	Thursday, March 23:	Christianity and Islam
 ##	Thursday, March 23:	Extra Credit: Lecture by Prof. Simon Goldhill (Optional)
 This is not a class session. See *(B)* for assignment details.
+
+“Self Harm and the Death Drive: A History through Antiquity” by Simon Goldhill, Professor of Greek Literature and Culture, Cambridge University (https://www.classics.cam.ac.uk/directory/simon-goldhill). Professor Goldhill is the Department of Classical and Mediterranean Studies distinguished lecturer for the 2022-2023 academic year. The lecture will be held on Thursday, March 23, 2023 at 4:10 PM in 203 Cohen Memorial Hall.
+
 ##	Tuesday, March 28:	Christianity in Africa
 
 *Assignments*
@@ -215,6 +239,9 @@ This is not a class session. See *(B)* for assignment details.
 ##	Thursday, April 20:	Dead Week: No Class, Research Day
 ##	Thursday, April 20:	Extra Credit: Lecture by Prof. Ljubomir Milanović (Optional)
 This is not a class session. See *(B)* for assignment details.
+
+“Sacral Topography of the Archbishopric of Ohrid (11th to the 13th centuries)” by Ljubomir Milanović, Senior Research Associate, Institute for Byzantine Studies, Serbian Academy for Sciences and Arts (https://www.byzinst-sasa.rs/eng/about-us). This lecture will be held on Thursday, April 20, 2023 at 4:10 PM in the Reading Room (Room 124) of the Divinity School.
+
 ##	Friday, April 21:	Optional Special Class Session with the VU Manuscript Collections
 This is not a class session. See *(B)* for assignment details.
 ##	Tuesday, May 2:	9:00-11:00 AM Final Exam Time
