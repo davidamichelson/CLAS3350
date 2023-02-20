@@ -168,9 +168,17 @@ This is not a class session. See *(B)* for extra credit assignment details.
 - Exam I in class (note the date has been changed from Feb 14).
 
 ##	Thursday, February 23:	Christianity and Empire
+*Primary Sources* 
+
+- Eusebius. "Life of Constantine." In *Life of Constantine*,  Book I.22-32, Book I.37-48, Book III.4-14, Book IV 17-25. Edited and translated by Averil Cameron and Stuart G. Hall, Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. *(VLC)* 
+
+*Secondary Sources* 
+
+- McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
+
 *Assignments*
 
-- Research topic
+- No Florilegium Due! But please start thinking about a research paper topic.
 
 ##	Tuesday, February 28:	Desert Christians
 
@@ -179,6 +187,7 @@ This is not a class session. See *(B)* for extra credit assignment details.
 - Florilegium 6
 
 ##	Thursday, March 2:	Divisions of Church and Empire and Library Session
+
 ##	Tuesday, March 7:	Syriac Christianity
 
 *Assignments*
