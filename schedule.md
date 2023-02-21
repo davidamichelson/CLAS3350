@@ -184,9 +184,14 @@ This is not a class session. See *(B)* for extra credit assignment details.
 
 *Assignments*
 
-- Florilegium 6
+- Research topic due
+- Extra credit due for AJ Levine and Jack Tannous events.
 
 ##	Thursday, March 2:	Divisions of Church and Empire and Library Session
+
+*Assignments*
+
+- Florilegium 6
 
 ##	Tuesday, March 7:	Syriac Christianity
 
