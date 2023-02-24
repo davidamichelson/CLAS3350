@@ -182,11 +182,36 @@ This is not a class session. See *(B)* for extra credit assignment details.
 
 ##	Tuesday, February 28:	Desert Christians
 
-*Assignments*
+*Primary Sources* 
 
-- Florilegium 6
+- Ward, Benedicta, trans. *The Sayings of the Desert Fathers*. Cistercian Studies 59. Cistercian Publications, 1984. Please read the following chapters:
+
+	* Euprepius 61-62
+	* Isaiah, 69-70
+	* Theodora, 82-85
+	* Moses, 138-143
+	* Sarah, 229-230
+	* Syncletica, 230-235
+	
+*Secondary Sources* 
+
+- Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)* 
+- McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In The Path of Christianity: The First Thousand Years, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). (VLC)
+
+*Assignments*
+- 100 word final project topic
+- Extra credits 1 and 2 (optional)
 
 ##	Thursday, March 2:	Divisions of Church and Empire and Library Session
+*Secondary Sources* 
+
+- McGuckin, John. "Chapter 7, A Church of the Nations: Ancient Global Christianity." In *The Path of Christianity: The First Thousand Years*,  479-519. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+
+*Assignments*
+
+- Florilegium 6: Please identify a common topic or theme across the "sayings" you read this week and craft a thesis explaining how that theme illustrates early Christian ideas of "renunciation".
+
+- Install Zotero software ([https://www.zotero.org/](https://www.zotero.org/)) on your laptop and bring it to class.
 
 ##	Tuesday, March 7:	Syriac Christianity
 
