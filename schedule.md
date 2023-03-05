@@ -215,16 +215,33 @@ This is not a class session. See *(B)* for extra credit assignment details.
 
 ##	Tuesday, March 7:	Syriac Christianity
 
+*Primary Sources* 
+
+Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021. 
+
+Part One: Syriac: 
+1. The Doctrina Addai; 2. Ephrem the Syrian, Hymns against Heresies 3 and 53; 6. Simeon of Beth Arsham, Letter on the Ḥimyarite Martyrs
+
 *Assignments*
 
-- Florilegium 7 
+- Florilegium 7 is cancelled :)
 
 ##	Wednesday, March 8:	Midterm Grades Reported
 This is not a class session, just the date when midterm grades will be reported.
+
 ##	Thursday, March 9:	Scripture and Interpretation
+
+*Primary Sources* 
+
+Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021. 
+
+Part One: Syriac: 4. Jacob of Serugh, The Fourth Homily on Cain and Abel; 5. Narsai, On the Canaanite Woman; 9. Theodore bar Koni, Scholion, Mēmrā 10; 
+
+Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
+
 *Assignments*
 
-- Research bibliography
+- Research bibliography due. Please use Zotero to prepare a bibliography. Turn in a PDF of an annotated bibliography.
 
 ##	Tuesday, March 14:	Spring Break: No Class
 ##	Thursday, March 16:	Spring Break: No Class
