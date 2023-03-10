@@ -18,7 +18,7 @@
 - Complete CLAS 3350 Student Questionnaire in class.
 
 ##	Thursday, January 12:	Hellenistic Backgrounds of Judaism and Christianity
-*Secondary Sources* 
+*Secondary Sources*
 
 - Sivan, Hagith. “Christianity.” In *The Oxford Handbook of Roman Studies*, edited by Alessandro Barchiesi and Walter Scheidel, 782-796. Oxford: Oxford University Press, 2010. *(VLC = available through Vanderbilt Libraries Catalogue)*
 
@@ -30,21 +30,21 @@
 - Read CLAS 3350 Florilegium Guide *(B)*
 
 ##	Tuesday, January 17:	Early Christian Judaism
-*Primary Sources* 
+*Primary Sources*
 
 - Gospel of Luke 1-4 = chapters 1-4, please read this in a "Study Bible" version of your choice *(VLC)*
 - Gospel of Mark 11-12
 - Acts of the Apostles 1-2, 17
 - 2 Esdras 14-16 (This is a complex work, please consult the introduction closely)
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - Mitchell, Margaret M. "The Emergence of the Written Record." In *The Cambridge History of Christianity*, ed. Margaret M. Mitchell and Frances M. Young, 175-94. Vol. 1. *Origins to Constantine*. Cambridge: Cambridge University Press, 2006. *(VLC)*
 - Levine, Amy-Jill. “Is the New Testament Anti-Jewish?.” *Bible Odyssey.* [https://www.bibleodyssey.org/bible-basics/is-the-new-testament-anti-jewish/](https://www.bibleodyssey.org/bible-basics/is-the-new-testament-anti-jewish/) *(Link provided)*
 
 *Assignments*
 
-- Florilegium 1 
+- Florilegium 1
 
 ##	Thursday, January 19:	Sources and Research Methods
 *Assignments*
@@ -54,12 +54,12 @@
 
 ##	Tuesday, January 24:	Christians and Romans
 
-*Primary Sources* 
+*Primary Sources*
 
 - “Correspondence of Pliny and Trajan. Book 10: Letters XCVI and XCVII." In Pliny the Younger, *Letters, Volume II: Books 8-10. Panegyricus*, translated by Betty Radice. 285-293. Loeb Classical Library 59. Cambridge, MA: Harvard University Press, 1969.  DOI: 10.4159/DLCL.pliny_younger-letters.1969. *(VLC)*
 - “Epistle to Diognetus. Chapters 1-10.” In *The Apostolic Fathers: Volume II*, edited and translated by Bart D. Ehrman, 122-155. Loeb Classical Library 25. Cambridge, MA: Harvard University Press, 2003. DOI: 10.4159/DLCL.epistle_diognetus.2003 *(VLC)*
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - Wilkin, Robert. “Pliny: A Roman Gentleman.” In *The Christians as the Romans Saw Them*, 1-30. Second Edition. Yale University Press, 2003. *(VLC)*
 
@@ -68,21 +68,21 @@
 - Florilegium 2
 
 ##	Thursday, January 26:	Martyrdom and the Cult of the Saints
-*Primary Sources* 
+*Primary Sources*
 
 - “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - Darling Young, Robin. “Martyrdom as Exaltation.” In Virginia Burrus, ed., *A People's History of Christianity*. Vol. 2, 70-94. Minneapolis: Fortress Press, 2005.  *(B)*
 
 ##	Tuesday, January 31:	Revelation
 
 
-*Primary Sources* 
+*Primary Sources*
 
 - “The Secret Book of John.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 297-306. New York: Oxford University Press, 2003. *(VLC)*
-- Irenaeus of Lyons. "Book III." In "Translation: Against Heresies." In *Irenaeus of Lyons*, translated by Robert M. Grant, 93-108. The Early Church Fathers. London: Routledge, 1997. *(VLC)* 
+- Irenaeus of Lyons. "Book III." In "Translation: Against Heresies." In *Irenaeus of Lyons*, translated by Robert M. Grant, 93-108. The Early Church Fathers. London: Routledge, 1997. *(VLC)*
 
 #### Bonus Primary Source Reading
 
@@ -92,30 +92,30 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 
 **Source:** Irenaus. “Irenaeus against Heresies.” Translated by Alexander Roberts and James Donaldson. In *The Ante-Nicene Fathers*, ed. Alexander Roberts and James Donaldson, 417-18. Vol. 1. Buffalo: Christian Literature Publishing Company, 1887.
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - McGuckin, John. "Selections from Chapter 2, The Fertile Second Century." In *The Path of Christianity: The First Thousand Years*, 3-4, 26-39, 48-54. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
-- Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
+- Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)*
 
 *Assignments*
 
-- Florilegium 3 
+- Florilegium 3
 
 ##	Thursday, February 2:	Scripture
 
-*Primary Source* 
+*Primary Source*
 
 - Paul, *Second Letter to Timothy* = 2 Timothy, chapters 1-4, please read this in a "Study Bible" version of your choice and pay attention to mentions of scriptures, words, and scrolls.
 - “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
 
 ##	Tuesday, February 7:	Asceticism
 
-*Primary Sources* 
+*Primary Sources*
 
 - **Review:** “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
 - “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)* **Note:** This text is perhaps the most violent of any we have read so far.
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
@@ -126,16 +126,16 @@ Nota Bene! The *florilegium* is due on Thursday this week. Please complete by 1 
 
 *Assignments*
 
-- Florilegium 4 Please answer this question in your *commentarius*: 
+- Florilegium 4 Please answer this question in your *commentarius*:
 Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to form Christian views of either gender or asceticism in contra distinction to the dominant views of Roman society?
 
 ##	Tuesday, February 14: Baptism
-*Primary Sources* 
+*Primary Sources*
 
 - McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
-- Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*, 169-175, 179-187. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)* 
+- Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*, 169-175, 179-187. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)*
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - McGuckin, John. "Chapter 11, The Formation of Liturgy." In *The Path of Christianity: The First Thousand Years*, 691-717. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
@@ -143,7 +143,7 @@ Early Christian authors often drew upon the rhetorical strategy of creating "par
 
 - Florilegium 5
 
-Please write a longer commentarius this week. It should be a sample exam answer, so approximately 10-12 sentences and should have a thesis statement and use quotations from the text. The quesiton is: 2. According to Cyril, how are the mysteries of Baptism and/or the Eucharist a form of physical access to heavenly things? 
+Please write a longer commentarius this week. It should be a sample exam answer, so approximately 10-12 sentences and should have a thesis statement and use quotations from the text. The quesiton is: 2. According to Cyril, how are the mysteries of Baptism and/or the Eucharist a form of physical access to heavenly things?
 
 ##	Thursday, February 16:	Extra Credit: A-J Levine and Marc Zvi Brettler Book Discussion (Optional)
 This is not a class session. See *(B)* for assignment details.
@@ -168,11 +168,11 @@ This is not a class session. See *(B)* for extra credit assignment details.
 - Exam I in class (note the date has been changed from Feb 14).
 
 ##	Thursday, February 23:	Christianity and Empire
-*Primary Sources* 
+*Primary Sources*
 
-- Eusebius. "Life of Constantine." In *Life of Constantine*,  Book I.22-32, Book I.37-48, Book III.4-14, Book IV 17-25. Edited and translated by Averil Cameron and Stuart G. Hall, Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. *(VLC)* 
+- Eusebius. "Life of Constantine." In *Life of Constantine*,  Book I.22-32, Book I.37-48, Book III.4-14, Book IV 17-25. Edited and translated by Averil Cameron and Stuart G. Hall, Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. *(VLC)*
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
 
@@ -182,29 +182,66 @@ This is not a class session. See *(B)* for extra credit assignment details.
 
 ##	Tuesday, February 28:	Desert Christians
 
-*Assignments*
+*Primary Sources*
 
-- Research topic due
-- Extra credit due for AJ Levine and Jack Tannous events.
+- Ward, Benedicta, trans. *The Sayings of the Desert Fathers*. Cistercian Studies 59. Cistercian Publications, 1984. Please read the following chapters:
+
+	* Euprepius 61-62
+	* Isaiah, 69-70
+	* Theodora, 82-85
+	* Moses, 138-143
+	* Sarah, 229-230
+	* Syncletica, 230-235
+
+*Secondary Sources*
+
+- Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)*
+- McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In The Path of Christianity: The First Thousand Years, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). (VLC)
+
+*Assignments*
+- 100 word final project topic
+- Extra credits 1 and 2 (optional)
 
 ##	Thursday, March 2:	Divisions of Church and Empire and Library Session
+*Secondary Sources*
+
+- McGuckin, John. "Chapter 7, A Church of the Nations: Ancient Global Christianity." In *The Path of Christianity: The First Thousand Years*,  479-519. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
 *Assignments*
 
-- Florilegium 6
+- Florilegium 6: Please identify a common topic or theme across the "sayings" you read this week and craft a thesis explaining how that theme illustrates early Christian ideas of "renunciation".
+
+- Install Zotero software ([https://www.zotero.org/](https://www.zotero.org/)) on your laptop and bring it to class.
 
 ##	Tuesday, March 7:	Syriac Christianity
 
+*Primary Sources*
+
+Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021.
+
+Part One: Syriac:
+1. The Doctrina Addai; 2. Ephrem the Syrian, Hymns against Heresies 3 and 53; 6. Simeon of Beth Arsham, Letter on the Ḥimyarite Martyrs
+
 *Assignments*
 
-- Florilegium 7 
+- Florilegium 7 is cancelled :)
 
 ##	Wednesday, March 8:	Midterm Grades Reported
 This is not a class session, just the date when midterm grades will be reported.
+
 ##	Thursday, March 9:	Scripture and Interpretation
+
+*Primary Sources*
+
+Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021.
+
+Part One: Syriac: 4. Jacob of Serugh, The Fourth Homily on Cain and Abel; 5. Narsai, On the Canaanite Woman; 9. Theodore bar Koni, Scholion, Mēmrā 10;
+
+Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
+
 *Assignments*
 
-- Research bibliography
+- Research bibliography due. Please use Zotero to prepare a bibliography. Turn in a PDF of an annotated bibliography.
 
 ##	Tuesday, March 14:	Spring Break: No Class
 ##	Thursday, March 16:	Spring Break: No Class
@@ -212,7 +249,7 @@ This is not a class session, just the date when midterm grades will be reported.
 
 *Assignments*
 
-- Florilegium 8 
+- Florilegium 8
 
 ##	Thursday, March 23:	Christianity and Islam
 ##	Thursday, March 23:	Extra Credit: Lecture by Prof. Simon Goldhill (Optional)
@@ -224,7 +261,7 @@ This is not a class session. See *(B)* for assignment details.
 
 *Assignments*
 
-- Florilegium 9 
+- Florilegium 9
 
 ##	Thursday, March 30:	Christianity in Byzantium
 ##	Tuesday, April 4:	Christianity in the Latin West
@@ -272,5 +309,3 @@ This is a class session. Lightning talks will be held during this two hour time 
 
 ##	Saturday, May 6:	Grades Submitted
 This is not a class session, just the date when final grades will be reported.
-
-
