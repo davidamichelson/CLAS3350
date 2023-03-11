@@ -244,14 +244,36 @@ Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
 - Research bibliography due. Please use Zotero to prepare a bibliography. Turn in a PDF of an annotated bibliography.
 
 ##	Tuesday, March 14:	Spring Break: No Class
+
 ##	Thursday, March 16:	Spring Break: No Class
+
 ##	Tuesday, March 21:	Christianity in Asia
+
+*Primary Sources* 
+
+- Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B = on brightspace)*
+
+*Secondary Sources* 
+
+- Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
+
+##	Thursday, March 23:	Christianity and Islam
+
+*Primary Sources*
+
+- Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
+- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
+
+*Secondary Sources*
+
+- Kennedy, Hugh. “The Mediterranean Frontier: Christianity Face to Face with Islam, 600–1050.” In *The Cambridge History of Christianity: Volume 3: Early Medieval Christianities, c.600–c.1100*, edited by Julia M. H. Smith and Thomas F. X. Noble, 3:178–96. Cambridge: Cambridge University Press, 2008. *(VLC)*
+- Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I). 
 
 *Assignments*
 
 - Florilegium 8
+	- Please answer this question in your commentary. Select one of these authors, how does the author appeal to the shared monotheism of Christians and Muslims to support the claims of their respective religions?
 
-##	Thursday, March 23:	Christianity and Islam
 ##	Thursday, March 23:	Extra Credit: Lecture by Prof. Simon Goldhill (Optional)
 This is not a class session. See *(B)* for assignment details.
 
@@ -259,11 +281,27 @@ This is not a class session. See *(B)* for assignment details.
 
 ##	Tuesday, March 28:	Christianity in Africa
 
+*Primary Sources* 
+
+- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two texts combined. The first part is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript)*
+
+*Secondary Sources* 
+
+- Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
+- Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
+
+##	Thursday, March 30:	Christianity in Byzantium
+*Primary Sources* 
+
+
+*Secondary Sources* 
+
+McGuckin, John. "Chapter 9, The Emergence of Christian Byzantium." In The Path of Christianity: The First Thousand Years, 631-640. Downers Grove, IL: IVP Academic, 2017. (VLC)
+
 *Assignments*
 
 - Florilegium 9
 
-##	Thursday, March 30:	Christianity in Byzantium
 ##	Tuesday, April 4:	Christianity in the Latin West
 
 *Assignments*
