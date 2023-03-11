@@ -263,6 +263,10 @@ Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
 
 - Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
 - "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
+- Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021.
+
+Part 4: Arabic
+3. The Disputation of Abraham of Tiberias; 4. Hunayn Ibn Ishaq, How to Discern the True Religion
 
 *Secondary Sources*
 
@@ -283,12 +287,11 @@ This is not a class session. See *(B)* for assignment details.
 
 *Primary Sources* 
 
-- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two texts combined. The first part is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript)*
+
 
 *Secondary Sources* 
 
 - Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
-- Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
 
 ##	Thursday, March 30:	Christianity in Byzantium
 *Primary Sources* 
