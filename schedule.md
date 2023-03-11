@@ -233,7 +233,7 @@ This is not a class session, just the date when midterm grades will be reported.
 
 *Primary Sources*
 
-Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021.
+Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021:
 
 Part One: Syriac: 4. Jacob of Serugh, The Fourth Homily on Cain and Abel; 5. Narsai, On the Canaanite Woman; 9. Theodore bar Koni, Scholion, Mēmrā 10;
 
@@ -263,7 +263,7 @@ Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
 
 - Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
 - "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
-- Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021.
+- Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021:
 
 Part 4: Arabic
 3. The Disputation of Abraham of Tiberias; 4. Hunayn Ibn Ishaq, How to Discern the True Religion
@@ -287,7 +287,10 @@ This is not a class session. See *(B)* for assignment details.
 
 *Primary Sources* 
 
+- Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021:
 
+Part 6: Ethiopic
+1. Select Inscriptions of ˁEzana; 2. Homily on Frumentius; 3. Synaxarion on Yared; 4. Glory of the Kings (Kǝbrä Nägäśt)
 
 *Secondary Sources* 
 
