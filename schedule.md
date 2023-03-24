@@ -300,7 +300,7 @@ Part 6: Ethiopic
 
 *Primary Sources*
 
-Peltomaa, Leena Mari. *The Image of the Virgin Mary in the Akathistos Hymn*. Leiden: Brill, 2001, 2-19.
+Peltomaa, Leena Mari. *The Image of the Virgin Mary in the Akathistos Hymn*. Leiden: Brill, 2001, 2-19. *(B)*
 
 
 *Secondary Sources*
