@@ -249,11 +249,11 @@ Part Five: Coptic: 2. Shenoute of Atripe, I Have Been Reading the Holy Gospels
 
 ##	Tuesday, March 21:	Christianity in Asia
 
-*Primary Sources* 
+*Primary Sources*
 
 - Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B = on brightspace)*
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
 
@@ -271,7 +271,7 @@ Part 4: Arabic
 *Secondary Sources*
 
 - Kennedy, Hugh. “The Mediterranean Frontier: Christianity Face to Face with Islam, 600–1050.” In *The Cambridge History of Christianity: Volume 3: Early Medieval Christianities, c.600–c.1100*, edited by Julia M. H. Smith and Thomas F. X. Noble, 3:178–96. Cambridge: Cambridge University Press, 2008. *(VLC)*
-- Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I). 
+- Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I).
 
 *Assignments*
 
@@ -285,28 +285,32 @@ This is not a class session. See *(B)* for assignment details.
 
 ##	Tuesday, March 28:	Christianity in Africa
 
-*Primary Sources* 
+*Primary Sources*
 
 - Read the following sections from Walters, J. Edward. *Eastern Christianity: A Reader*. Grand Rapids, MI: William B. Eerdmans Publishing Company, 2021:
 
 Part 6: Ethiopic
 1. Select Inscriptions of ˁEzana; 2. Homily on Frumentius; 3. Synaxarion on Yared; 4. Glory of the Kings (Kǝbrä Nägäśt)
 
-*Secondary Sources* 
+*Secondary Sources*
 
 - Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
 
 ##	Thursday, March 30:	Christianity in Byzantium
-*Primary Sources* 
+
+*Primary Sources*
+
+Peltomaa, Leena Mari. *The Image of the Virgin Mary in the Akathistos Hymn*. Leiden: Brill, 2001, 2-19.
 
 
-*Secondary Sources* 
+*Secondary Sources*
 
-McGuckin, John. "Chapter 9, The Emergence of Christian Byzantium." In The Path of Christianity: The First Thousand Years, 631-640. Downers Grove, IL: IVP Academic, 2017. (VLC)
+McGuckin, John. "Chapter 9, The Emergence of Christian Byzantium." In *The Path of Christianity: The First Thousand Years*, 631-640. Downers Grove, IL: IVP Academic, 2017. (VLC)
 
 *Assignments*
 
 - Florilegium 9
+What role does the Christian doctrine of the incarnation play in the ways that the Akathistos Hymn describes Mary?
 
 ##	Tuesday, April 4:	Christianity in the Latin West
 
