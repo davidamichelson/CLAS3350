@@ -314,9 +314,19 @@ What role does the Christian doctrine of the incarnation play in the ways that t
 
 ##	Tuesday, April 4:	Christianity in the Latin West
 
+*Primary Sources*
+
+Augustine of Hippo. "The City of God: Book XIX, Chapters 5-12, 15-17." In *The City of God*, Books XVII-XXII, read pages 202-217, 223-229. Translated by Gerald G. Walsh, S.J. and Daniel J. Honan. Washington: D.C.: The Catholic University of America Press, 1954. (VLC)
+
+Nota bene: While our discussion topic will not be directly focused on slavery, Augustine does have a stark discussion of it in chapter 15 which may be troubling. Indeed, both sources bear the marks of the violent norms of Roman society.
+
+*Secondary Sources*
+
+McGuckin, John. "Chapter 10, The Flourishing of Medieval Rome." In *The Path of Christianity: The First Thousand Years*, 661-689. Downers Grove, IL: IVP Academic, 2017. (VLC)
+
 *Assignments*
 
-- Florilegium 10
+- Florilegium 10: According to Augustine, what is the relationship of the Christian community of the church to citizen community of the Roman Empire?
 
 ##	Thursday, April 6:	Micro-Christendoms
 *Assignments*
@@ -341,8 +351,6 @@ This is not a class session. See *(B)* for assignment details.
 
 “Sacral Topography of the Archbishopric of Ohrid (11th to the 13th centuries)” by Ljubomir Milanović, Senior Research Associate, Institute for Byzantine Studies, Serbian Academy for Sciences and Arts (https://www.byzinst-sasa.rs/eng/about-us). This lecture will be held on Thursday, April 20, 2023 at 4:10 PM in the Reading Room (Room 124) of the Divinity School.
 
-##	Friday, April 21:	Optional Special Class Session with the VU Manuscript Collections
-This is not a class session. See *(B)* for assignment details.
 ##	Tuesday, May 2:	9:00-11:00 AM Final Exam Time
 This is a class session. Lightning talks will be held during this two hour time period. We will use the whole time alotted.
 
