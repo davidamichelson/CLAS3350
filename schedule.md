@@ -331,7 +331,7 @@ McGuckin, John. "Chapter 10, The Flourishing of Medieval Rome." In *The Path of 
 ##	Thursday, April 6:	Micro-Christendoms
 *Assignments*
 
-- Rough draft of research project
+- Rough draft of research project due.
 
 ##	Tuesday, April 11:	Medieval Christianities
 
@@ -339,13 +339,19 @@ McGuckin, John. "Chapter 10, The Flourishing of Medieval Rome." In *The Path of 
 
 - Revised or Make Up Florilegium (optional)
 
+Your may revise a florilegium for a make up grade.
+
 ##	Thursday, April 13:	Concluding Discussion
 *Assignments*
 
 - Exam II in class
 
-##	Tuesday, April 18:	Dead Week: No Class, Research Day
-##	Thursday, April 20:	Dead Week: No Class, Research Day
+##	Tuesday, April 18:	Dead Week
+- No Class, Research Day
+
+##	Thursday, April 20: Dead Week
+- No Class, Research Day
+
 ##	Thursday, April 20:	Extra Credit: Lecture by Prof. Ljubomir Milanović (Optional)
 This is not a class session. See *(B)* for assignment details.
 
