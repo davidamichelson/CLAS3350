@@ -326,7 +326,7 @@ McGuckin, John. "Chapter 10, The Flourishing of Medieval Rome." In *The Path of 
 
 *Assignments*
 
-- Florilegium 10: According to Augustine, what is the relationship of the Christian community of the church to citizen community of the Roman Empire?
+- Florilegium 10: According to Augustine, what is the relationship of the Christian community of the church to the citizen community of the Roman Empire?
 
 ##	Thursday, April 6:	Micro-Christendoms
 *Assignments*
