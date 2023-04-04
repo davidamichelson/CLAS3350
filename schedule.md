@@ -329,6 +329,11 @@ McGuckin, John. "Chapter 10, The Flourishing of Medieval Rome." In *The Path of 
 - Florilegium 10: According to Augustine, what is the relationship of the Christian community of the church to the citizen community of the Roman Empire?
 
 ##	Thursday, April 6:	Micro-Christendoms
+*Secondary Sources* 
+
+- Michelson, David. "Charlemagne's Furniture." *Christian History* 108 (2014). [https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture](https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture)
+- Bagge, Sverre. “Christianizing Kingdoms.” In The Oxford Handbook of Medieval Christianity, edited by John H. Arnold. Oxford: Oxford University Press, 2014, n.p. doi:10.1093/oxfordhb/9780199582136.013.008. *(VLC)*
+
 *Assignments*
 
 - Rough draft of research project due.
